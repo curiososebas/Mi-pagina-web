@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -115,8 +115,8 @@
 
 <footer>
     <p>© 2025 Artify. Todos los derechos reservados.</p>
+    <p>Creado por: D. Morales, J. Sanaría y S. Barragán</p>
 </footer>
 
 </body>
 </html>
-
